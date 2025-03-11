@@ -2,15 +2,15 @@
 // Change History 
 // Date         Developer  Description 
 // 2025-02-10   mffarah0   Initialized the Tic-Tac-Toe game structure and designed the basic UI.
-// 2025-02-12   jbelac     Integrated button functionality for the game grid.
-// 2025-02-14   abdiluq    Implemented input handling and managed the game state.
-// 2025-02-15   jbelac     Added event handling for button clicks and implemented win checking.
-// 2025-02-16   abdiluq    Developed the computer's turn logic with random move selection and first-turn handling.
+// 2025-02-12   mffarah0    Integrated button functionality for the game grid.
+// 2025-02-14   mffarah0   Implemented input handling and managed the game state.
+// 2025-02-15   mffarah0   Added event handling for button clicks and implemented win checking.
+// 2025-02-16   mffarah0   Developed the computer's turn logic with random move selection and first-turn handling.
 // 2025-02-17   mffarah0   Expanded the interface to include extra controls such as Turn Indicator, Winner Display, and Game Controls.
-// 2025-02-18   jbelac     Built a system to track and update player and computer scores.
-// 2025-02-19   abdiluq    Refined the UI to dynamically reflect score updates.
+// 2025-02-18   mffarah0     Built a system to track and update player and computer scores.
+// 2025-02-19   mffarah0   Refined the UI to dynamically reflect score updates.
 // 2025-02-20   mffarah0   Finalized game logic, ensuring smooth player and computer turns, scoring, and game resets.
-// 2025-02-22   jbelac     Fixed issues with the new game reset logic and refined SetupGame mechanics.
+// 2025-02-22   mffarah0     Fixed issues with the new game reset logic and refined SetupGame mechanics.
 
 
 using System;
